@@ -25,6 +25,21 @@ a:hover{
     transition:.15s;
 }
 
+#top-nav {
+    position: fixed;
+    right:10px;
+    bottom:10px;
+    color:#172A3A;
+    max-width: 60px;
+    padding: 0;
+    background-color: #09BC8A;
+    border-radius: 5px;
+}
+
+i {
+    padding:10px;
+}
+
 h2 {
     text-transform: uppercase;
     color:#034b37;
